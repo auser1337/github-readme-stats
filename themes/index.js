@@ -462,6 +462,12 @@ export const themes = {
     icon_color: "ffffff",
     bg_color: "35,4158d0,c850c0,ffcc70",
   },
+  cheat_codes: {
+    title_color: "c3373c",
+    text_color: "238753",
+    icon_color: "dbd5c7",
+    bg_color: "1e261f",
+  },
 };
 
 export default themes;
